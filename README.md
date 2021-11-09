@@ -1,24 +1,22 @@
-# php-getting-started
+# Cybertet's Personal Directory
 
-A barebones PHP app that makes use of the [Silex](http://silex.sensiolabs.org/) web framework, which can easily be deployed to Heroku.
+Leave me alone I just started
 
-This application supports the [Getting Started with PHP on Heroku](https://devcenter.heroku.com/articles/getting-started-with-php) article - check it out.
+## About Me
 
-## Deploying
+I am a student forced to create this account for whatever reason.
 
-Install the [Heroku Toolbelt](https://toolbelt.heroku.com/).
-
+## Games
 ```sh
-$ git clone git@github.com:heroku/php-getting-started.git # or clone your own fork
-$ cd php-getting-started
-$ heroku create
-$ git push heroku main
-$ heroku open
+[Minecraft](https://minecraft.net/)
+[Terraria](https://store.steampowered.com/app/105600/Terraria/)
+[Geometry Dash](https://store.steampowered.com/app/322170/Geometry_Dash/)
+[TETR.IO](https://tetr.io/)
 ```
 
-or
+##Socials
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Youtube](https://assets.stickpng.com/images/580b57fcd9996e24bc43c545.png)](https://youtube.com/channel/UCUo3x3PRlfb3HzzsPuOQ/)
 
 ## Documentation
 
